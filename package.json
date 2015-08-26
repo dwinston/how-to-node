@@ -1,6 +1,6 @@
 {
   "name": "@dwinston/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "How to NPM? How, indeed.",
   "main": "index.js",
   "scripts": {
