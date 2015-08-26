@@ -1,14 +1,26 @@
 {
   "name": "@dwinston/how-to-npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "How to NPM? How, indeed.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Donny Winston",
+  "license": "MIT",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwinston/how-to-node.git"
+  },
+  "keywords": [
+    "howtonode"
+  ],
+  "bugs": {
+    "url": "https://github.com/dwinston/how-to-node/issues"
+  },
+  "homepage": "https://github.com/dwinston/how-to-node#readme"
 }
