@@ -8,9 +8,7 @@
   },
   "author": "Donny Winston",
   "license": "MIT",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
